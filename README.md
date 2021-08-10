@@ -1,1 +1,1 @@
-#### Um sistema lógico simples de múltiplas colisões feito com JavaScript
+#### Um sistema lógico simples de múltiplas colisões feito com Javascript

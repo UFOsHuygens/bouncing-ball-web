@@ -1,6 +1,7 @@
-div {
+#ball {
     width: 150px;
     height: 150px;
     background-color: black;
     position: absolute;
+    border-radius: 50%;
 }
